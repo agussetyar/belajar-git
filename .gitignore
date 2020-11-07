@@ -1,3 +1,5 @@
 .env
 config.php
 secret.txt
+node_modules
+vendor
